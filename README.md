@@ -11,9 +11,7 @@
 - Responsive UI with Tailwind CSS  
 
 ## 🛠 **Tech Stack**
-- **Frontend:** React.js, Tailwind CSS  
-- **Backend:** Node.js, Express.js  
-- **Database:** MongoDB  
+- **Frontend:** React.js, Tailwind CSS    
 - **Deployment:** Vercel / Netlify (Frontend), Render / AWS (Backend)  
 
 ## 📌 **Installation & Setup**
